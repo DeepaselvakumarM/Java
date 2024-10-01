@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 
-public class Atm {
+public class Atms {
     public static void main(String[] args) {
         int pin=1234;
         int balance=100;
