@@ -39,7 +39,7 @@ public class Atms {
                     System.out.println("withdraw the depposit amount");
                     take=s.nextInt();
                     if(take<balance){
-                    System.out.println("Your are depositd");
+                    System.out.println("Your are deposited");
                     }
                     else{
                         System.out.println("Deposited");
