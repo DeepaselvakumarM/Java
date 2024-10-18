@@ -40,7 +40,7 @@ class B implements Runnable {
               Thread.sleep(100); // Sleep to simulate some work being done
           }
       } catch (InterruptedException e) {
-          System.out.println("Thread B was interrupted.");
+          System.out.println("Thread B was interrupt.");
       }
   }
 }
